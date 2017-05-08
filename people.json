@@ -1,0 +1,31 @@
+[ {
+  "title": "Princess",
+  "name": "Daenerys Targaryen",
+  "bio": "Princess of House Targaryen, Daenerys lives in exile in Essos with her advisors and dragons. Dany rallied the Unsullied of Astapor to her cause and continues to grow the army she needs to take back the throne.",
+  "image": "https://pbs.twimg.com/profile_images/608064617881956353/yqEJrWUM.jpg"
+},
+{
+  "title": "Queen",
+  "name": "Cersei Lannister",
+  "bio": "Queen Regent of the Seven Kingdoms, Cersei is fiercely protective of her three children. Even before she was married to Robert Baratheon, she was involved in a relationship with her twin brother, Jaime. Like her father, Cersei is interested in maintaining her position of power.",
+  "image": "http://file2.instiz.net/data/cached_img/upload/2016/07/01/16/528da8b09d3733ecb53a34512b7c2997.jpg"
+},
+{
+  "title": "Lord",
+  "name": "Jon Snow",
+  "bio": "Ned Stark's bastard son, Jon joined the Night's Watch. On a mission for Lord Commander Mormont, Jon infiltrated the wildlings by pretending to forsake his Night Watch brothers. In doing so, he fell in love with Ygritte, a wildling woman. ",
+  "image": "https://static.giantbomb.com/uploads/original/3/39164/2865551-reasons-people-love-game-thrones-jon-snow-video.jpg"
+},
+{
+  "title": "Lord",
+  "name": "Tyrion Lannister",
+  "bio": "What Tyrion lacks in size and strength, he makes up for in mental acuity. Formerly Hand of the King and Master of Coin on the Small Council, Tyrion has now made his way to Meereen.",
+  "image": "http://4.bp.blogspot.com/-Sn8DMUhRBcY/UBWkR73_XGI/AAAAAAAAAXc/KP7-zspVktk/s1600/tyrion.png"
+},
+{
+  "title": "Lady",
+  "name": "Arya Stark",
+  "bio": "The younger of the Stark daughters, Arya has put her survival skills to use making her way east to the city of Braavos.",
+  "image": "http://vignette1.wikia.nocookie.net/gameofthrones/images/e/e9/Arya_Stark_4.jpg/revision/latest/scale-to-width-down/2000?cb=20140428152515"
+}
+]
