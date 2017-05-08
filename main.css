@@ -1,0 +1,41 @@
+body {
+  width: 80%;
+  margin: 0 auto;
+  font-family: "Tahoma", sans-serif;
+  padding: 1%;
+  background-color: rgb(218, 217, 218);
+  color: rgb(82, 84, 84);
+  cursor: pointer;
+}
+.person-container {
+  margin: 1%;
+  padding: 1%;
+  /*border-bottom: 2px solid rgb(82, 84, 84);*/
+}
+.border {
+  border: 3px dotted black;
+}
+
+#main-heading {
+  text-align: center;
+}
+
+#main-heading input {
+  width: 70%;
+  height: 1em;
+  font-size: 1em;
+}
+
+.images {
+  width: 130px;
+  height: 130px;
+}
+
+.personDiv {
+  width: 30%;
+  display: inline-block;
+}
+
+section p {
+  font-size: .8em;
+}
